@@ -12,5 +12,6 @@ Sendo esse o serviço de porta de entrada, o API Gateway para acessar os micro s
 * Spring Security
 * Eureka Client
 
+É necessário que tenha um cliente de Keycloak rodando
 ### Como rodar
 `docker compose up`
